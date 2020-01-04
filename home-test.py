@@ -13,8 +13,6 @@
 #     l_input.append(d_input)
 #     print(d_input.values())
 
-l_look = []
-with open('goods.txt', mode='r', encoding='utf-8') as f:
-    for i in f:
-        l_look.append(i)
-    print(len(l_look))
+def func(a,a1=12    ):
+    pass
+
